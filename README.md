@@ -5,9 +5,9 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=stevenzhang070302" alt="stevenzhang070302" /></a> </p>
 
-- 🌱 I’m currently learning **Large Language Models, Flutter**
+- 🌱 I’m currently learning **AI Agents, LLMs**
 
-- 💬 Ask me about **Python, Machine Learning, Bayesian Machine Learning**
+- 💬 Ask me about **Python, ML, Startups**
 
 - 📫 How to reach me **stevenzhang070302@gmail.com**
 
